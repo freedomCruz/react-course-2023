@@ -9,7 +9,7 @@
   .tw-followCard-header {
     display: flex;
     align-items: center;
-    gap: 8px
+    gap: 12px
   }
   
   .tw-followCard-info {
@@ -24,14 +24,14 @@
   .tw-followCard-avatar {
     width: 48px;
     height: 48px;
-    border-radius: 1000px;
+    border-radius: 100px;
   }
   
   .tw-followCard-button {
     cursor: pointer;
     margin-left: 16px;
     border: 0;
-    border-radius: 999px;
+    border-radius: 99px;
     padding: 6px 16px;
     font-weight: bold;
     border: 1px solid #000;

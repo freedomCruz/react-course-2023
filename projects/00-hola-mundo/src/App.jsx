@@ -8,7 +8,7 @@ export function App() {
 
     return (
         <section className = "App">
-            <TwitterFollowCard  userName="omidnikrah" >
+            <TwitterFollowCard  userName="elonmusk" >
                 Pablo Figueroa
             </TwitterFollowCard>
             
@@ -16,8 +16,8 @@ export function App() {
                 Miguel Ángel Durán 
             </TwitterFollowCard> 
 
-            <TwitterFollowCard  userName="elonmusk" > 
-                Pablo Figueroa 
+            <TwitterFollowCard  userName="willycruzdo" > 
+                Elon Musk
             </TwitterFollowCard>
 
         </section>
